@@ -97,8 +97,6 @@
 
 // // solution 6 😤
 
-//let count = ((str) => str.split(' ').filter((n) => n != '').length console.log((str));
-
 // let str = "Hello     World"
 // console.log(str.split(' ').filter((n) => n != '').length);
 
